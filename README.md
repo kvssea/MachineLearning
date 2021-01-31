@@ -1,3 +1,2 @@
 # MachineLearning
-
-A collection of notebooks on machine learning I have written to provide intuition for futureu machine learning topics
+A collection of notebooks I have written for the basic intution of machine learning. More to come. 
